@@ -1,2 +1,2 @@
-# ruby-learnings
-Repo for all things ruby! Let's learn faster and better, together :)
+Repo for all things Ruby!
+Let's learn faster and better, together :)
